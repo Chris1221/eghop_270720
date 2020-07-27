@@ -1,2 +1,3 @@
-# eghop_250720
-Talk given at the EGHOP summer journal club
+# EGHOP Talk 
+
+Talk given at the EGHOP summer journal club. 
